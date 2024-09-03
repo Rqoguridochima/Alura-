@@ -73,5 +73,16 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0em;
+    margin: 0 10em;
+}
+
+.descricao_titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin: 0.1em;
+}
+
+.descricao_texto {
+    color: var(--cinza-secundario);
 }
